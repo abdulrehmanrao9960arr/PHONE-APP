@@ -1,0 +1,25 @@
+.list{
+    list-style: none;
+    /* width: 800px; */
+}
+.container{
+    /* width: 800px; */
+/* display: flex;
+flex-wrap: wrap; */
+}
+
+.go-back{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    align-items: center;
+    text-align: center;
+font-size: xx-large;
+}
+.btn{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    align-items: center;
+    text-align: center;
+font-size: xx-large;    
+
+}
